@@ -2,6 +2,9 @@
 import math
 
 def ludolf(n):
+    lok_list = []
     if n < 1 or n > 15:
         return False
-    return [round(math.pi, cisla) for cisla in range(1, n + 1)]
+    for cisla in range (1, n)
+        lok_list.append(round(math.pi, n))
+return(lok_list)
