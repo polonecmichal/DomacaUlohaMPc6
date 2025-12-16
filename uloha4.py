@@ -1,4 +1,4 @@
-z = ['ahoj', 12, -3, 'kukuk', 6.45, True]
+z = [5,1,2,4,7,8,11]
 
 def parne_pozicie(z):
     lok_zoznam = []
